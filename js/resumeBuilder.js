@@ -26,7 +26,7 @@ var education = {
         "degree": "High School Diploma",
         "majors": ["Science"],
         "dates": "2000",
-        "url": "http://www.cisce.org/"
+        "url": "http://www.cisco.org/"
 
     }],
     "onlineCourses": [{
@@ -125,7 +125,8 @@ var projects = {
             "dates": "2014-2016 ",
             "description": "  -Responsible for Development and Migration of legacy CISCO IVR to Cisco CVP solutions.",
             "images": ["images/cvpivr1.jpg"]
-        }, {
+        }, 
+        {
             "title": "Natural Language IVR and Cisco ICM ",
             "dates": "2012-2014 ",
             "description": "  - Solution Consultant for Natural Language IVR project which included Nuance,CVP and ICM call routing development.",
