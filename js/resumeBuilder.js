@@ -53,6 +53,14 @@ var education = {
 var work = {
 
     "jobs": [{
+        "employer": "Greensky-Goldman Sachs Company",
+        "title": "Director Development",
+        "dates": "April 2021 -Future",
+        "location": "Atlanta,GA",
+        "description": "Responsible for enabling Digital Technoligies and  Contact Center Transformation "
+
+    },
+        {
         "employer": "Esurance",
         "title": "Manager Development",
         "dates": "April 2014 -Future",
