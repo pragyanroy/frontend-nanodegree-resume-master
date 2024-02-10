@@ -5,7 +5,7 @@ var bio = {
         "mobile": "2036454699",
         "email": "roy.pragyan@gmail.com",
         "github": "pragyanroy",
-        "location": "San Francisco"
+        "location": "Atlanta"
     },
     "welcomeMessage": "Contact Center transformation consultant in Cisco,AVAYA,Interactive Intelligence wih 12 years of experieance in US,UK,Japan and India",
     "skills": ["CiscoIVR", "Cisco CVP", "Cisco ICM", "HTML-CSS-JavaScript", "Cisco-UCCE", "Core Java"],
